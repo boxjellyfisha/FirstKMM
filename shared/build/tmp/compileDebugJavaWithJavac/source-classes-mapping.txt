@@ -1,0 +1,2 @@
+com/kelly/firstkmm/shared/BuildConfig.java
+ com.kelly.firstkmm.shared.BuildConfig

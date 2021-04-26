@@ -1,0 +1,2 @@
+com/kelly/firstkmm/androidApp/BuildConfig.java
+ com.kelly.firstkmm.androidApp.BuildConfig
